@@ -45,6 +45,7 @@ A categorized index of Model Context Protocol (MCP) servers, compiled from the O
 - [Jpisnice/shadcn-ui-mcp-server](https://github.com/Jpisnice/shadcn-ui-mcp-server) ★3,016 — Access shadcn/ui v4 components, blocks, demos and metadata. · [mcpnav](https://mcpnav.dev/servers/jpisnice/shadcn-ui-mcp-server/?utm_source=github&utm_medium=awesome)
 - [software-mansion/argent](https://github.com/software-mansion/argent) ★2,958 — Drive iOS Simulators, Android emulators, TVs and Electron/web apps from your coding agent · [mcpnav](https://mcpnav.dev/servers/software-mansion/argent/?utm_source=github&utm_medium=awesome)
 - [metatool-ai/metamcp](https://github.com/metatool-ai/metamcp) ★2,692 — MetaMCP: unified middleware MCP server that manages your MCP connections through a GUI. · [mcpnav](https://mcpnav.dev/servers/metatool-ai/metamcp/?utm_source=github&utm_medium=awesome)
+- [Aident-AI/aident-skill](https://github.com/Aident-AI/aident-skill) ☁️ ★5 — Remote MCP server (streamable HTTP, OAuth) that connects Codex, Claude Code, Cursor, ChatGPT and other agents to 1,000+ apps and 400+ Skills through one Loadout setup. Homepage: https://aident.ai
 - [joshuayoes/ios-simulator-mcp](https://github.com/joshuayoes/ios-simulator-mcp) ★2,186 — Interact with iOS simulators: get simulator information, control UI interactions and inspect UI elements. · [mcpnav](https://mcpnav.dev/servers/joshuayoes/ios-simulator-mcp/?utm_source=github&utm_medium=awesome)
 
 ## Productivity
